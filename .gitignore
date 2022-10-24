@@ -1,4 +1,5 @@
 E*.csv
+*.csv
 data/
 .DS_Store
 MLvenv/
