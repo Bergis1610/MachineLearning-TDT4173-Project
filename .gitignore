@@ -4,3 +4,4 @@ data/
 .DS_Store
 MLvenv/
 submissionFiles/
+catboost_info/
