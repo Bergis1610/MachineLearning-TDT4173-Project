@@ -5,3 +5,4 @@ data/
 MLvenv/
 submissionFiles/
 catboost_info/
+.vscode/
